@@ -32,6 +32,13 @@ The project combines **Excel, SQL, and Power BI** to transform ESG and financial
 ## 📊 Dataset
 
 The dataset contains company-level ESG, environmental, social, governance, operational, and financial information.
+## 📚 Dataset Source & Attribution
+
+The dataset used in this project is the **ESG & Financial Performance Dataset** available on Kaggle.
+
+The dataset is synthetic and was used for portfolio analysis and learning purposes.
+
+Source: Kaggle — ESG & Financial Performance Dataset
 
 ### Key variables
 
